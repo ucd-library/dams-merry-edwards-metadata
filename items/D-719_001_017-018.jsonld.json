@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3b27q21z",
+    "D-719, Box:1, Folder:17-18"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Meredith Vineyard Estate Photo Album",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01167068"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01305957"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061595"
+    }
+  ],
+  "schema:creator": "Edwards, Merry",
+  "schema:description": "Photographs in this album capture the first few years of Meredith Vineyard Estate, also called Meredith Estate, from initial clearing of the old apple orchard property to the 2001 bottling of MVE's sparkling wine. Photos depict activities such as field labor, barrel tastings, dinners, gatherings of business partners, and a blessing ritual.",
+  "schema:datePublished": "1997-2001",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_001_017_0001.tif"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3vx06d2b",
+    "D-719, Box:2, Folder:11"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Chef John Ash, Merry Edwards, and Malcolm Clark of Gourmet Mushrooms in Home Kitchen",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01747985"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01219044"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061684"
+    }
+  ],
+  "schema:description": "This photograph depicts James Beard Award-winning chef John Ash (left), Merry Edwards (center), and Malcolm Clark (right) of Gourmet Mushrooms in the kitchen of Merry Edwards and Ken Coopersmith's home. Gourmet Mushrooms is located in Sebastopol, not far from Coopersmith Vineyard.",
+  "schema:datePublished": "2003",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719-002_011-01_001_trsmv.tif"
+  }
+}

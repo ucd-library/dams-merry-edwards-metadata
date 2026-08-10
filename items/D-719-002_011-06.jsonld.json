@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3bz61j9d",
+    "D-719, Box:2, Folder:11"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Merry Edwards Using Punch Down System at Pellegrini Winery",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01175918"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061684"
+    }
+  ],
+  "schema:description": "This photograph depicts Merry Edwards using a punch down system with vats that have removable lids. During punch down, the top layer of grape skins and stems get submerged into the liquid to aid in fermentation. This step is part of the crush process.",
+  "schema:datePublished": "2002",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719-002_011-06_004_trsmv.tif"
+  }
+}

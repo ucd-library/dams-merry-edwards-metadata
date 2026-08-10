@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3fq9qg3j",
+    "D-719, Box:2, Folder:68"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Merry Edwards 1997 Russian River Valley Pinot Noir Wine Label",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01305957"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01175983"
+    }
+  ],
+  "schema:creator": "Edwards, Merry",
+  "schema:description": "In spring of 1999, Merry Edwards released her two inaugural pinot noirs under the Merry Edwards Wines brand: Merry Edwards 1997 Olivet Lane and 1997 Russian River Valley blend. This wine label shows the design for the Russian River Valley pinot noir.",
+  "schema:datePublished": "1997",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_002_068-03_0001.tif"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d30p0x18t",
+    "D-719, Box:2, Folder:12"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Merry Edwards Using a Wine Thief to Sample Wine from a Cask",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01175993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01305957"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061684"
+    }
+  ],
+  "schema:creator": "Ben Miller Photography",
+  "schema:description": "This photograph depicts Merry Edwards standing in front of a cask holding 2001 Meredith Vineyard Estate pinot noir as she uses a wine thief to sample wine.",
+  "schema:datePublished": "2001-2002",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719-002-012_rflctv_recto.tif"
+  }
+}

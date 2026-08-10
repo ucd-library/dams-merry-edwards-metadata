@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3v40k882",
+    "D-719, Box:1, Folder:46"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Laine Gates and Unidentified Person Grape Stomping at Mount Eden Vineyards",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01167068"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01215500"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061684"
+    }
+  ],
+  "schema:description": "This photograph depicts Laine Gates and an unidentified person standing in a metal vat while grape stomping. Mount Eden Vineyards is in the background.",
+  "schema:datePublished": "1974-1976",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_001_046_001_mnt_recto.tif"
+  }
+}

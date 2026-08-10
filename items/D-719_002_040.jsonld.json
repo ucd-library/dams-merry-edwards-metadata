@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3sx64m1c",
+    "D-719, Box:2, Folder:40"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "\"Vintage 20!\" Release Announcement",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01175887"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01305957"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01982512"
+    }
+  ],
+  "schema:creator": "Edwards, Merry",
+  "schema:description": "The \"Vintage 20!\" release announcement commemorates the twentieth vintage of Merry Edwards Wines. It includes leaflets describing Merry Edwards' 2016 Meredith Estate, Klopp Ranch, Flax Vineyard, and Sonoma Coast pinot noirs, as well as the 2017 Russian River Valley sauvignon blanc.",
+  "schema:datePublished": "2016-2017",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_002_040_0001.tif"
+  }
+}

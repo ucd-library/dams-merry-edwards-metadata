@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3930p52r",
+    "D-719, Box:2, Folder:49"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Los Angeles County Fair Wine Judges",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01175993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01658364"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01207153"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01061684"
+    }
+  ],
+  "schema:creator": "Los Angeles County Fair Publicity Department",
+  "schema:description": "This photograph depicts the wine judges who took part in the 1976 Los Angeles County Fair wine tasting competition. Front row, L-R: Elizabeth Milius, Frank Prial, Belle Rhodes, Narsai David, Ruthanne Dickerson, Dr. Paul Scholten, Merry Edwards. Back row, L-R: R. Stoney Mayock II, Dr. James Guymon, Greg Doerschlag, Robert Currie, Bob Thompson, John Movius, Dr. Bernard Rhodes, Robert Morrisey, Nathan Chroman, Dr. Leopold Tuchman, Dr. Richard Peterson, Marvin Zeidler, Darrell Corti, Ralph Hutchinson.",
+  "schema:datePublished": "1976",
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_002_049_0001.tif"
+  }
+}
