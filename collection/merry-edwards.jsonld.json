@@ -17,7 +17,8 @@
     "@id": "@base:/labels"
   },
   "schema:identifier": [
-    "D-719"
+    "D-719",
+    "ark:/87293/d3pv6bh7s"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
