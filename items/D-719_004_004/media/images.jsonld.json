@@ -14,6 +14,9 @@
     "ldp:DirectContainer",
     "schema:MediaObject"
   ],
+  "schema:encodesCreativeWork": {
+    "@id": "@base:../D-719_004_004.pdf"
+  },
   "schema:name": "Image List",
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"

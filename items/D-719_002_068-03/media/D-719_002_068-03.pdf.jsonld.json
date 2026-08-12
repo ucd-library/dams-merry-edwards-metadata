@@ -10,21 +10,10 @@
   },
   "@id": "",
   "@type": [
-    "ucdlib:ImageList",
-    "ldp:DirectContainer",
+    "schema:ImageObject",
+    "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "schema:encodesCreativeWork": {
-    "@id": "@base:../D-719_002_068-03.pdf"
-  },
-  "schema:name": "Image List",
-  "ldp:hasMemberRelation": {
-    "@id": "schema:hasPart"
-  },
-  "ldp:isMemberOfRelation": {
-    "@id": "schema:partOf"
-  },
-  "ldp:membershipResource": {
-    "@id": ""
-  }
+  "ebucore:filename": "D-719_002_068-03.pdf",
+  "ebucore:hasMimeType": "application/pdf"
 }
