@@ -35,8 +35,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards and Laurel Quady bent over a wood crate as they examine grapevine shoots.",
-  "schema:datePublished": "1974-1976",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "1974-1976"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_003_mnt_recto.tif"
+    "@id": "@base:/media/images/D-719_001_046_003_trsmv.tif"
   }
 }

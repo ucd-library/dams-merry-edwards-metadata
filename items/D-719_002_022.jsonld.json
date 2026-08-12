@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "This release announcement titled \"Romanced by Pinot\" describes Merry Edwards' 2006 pinot noir vintages from Coopersmith Vineyard, Flax Vineyard, Klopp Ranch, Meredith Estate, and Tobias Glen.",
-  "schema:datePublished": "2006",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2006"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_022_0001.tif"
   }

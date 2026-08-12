@@ -39,8 +39,11 @@
   ],
   "schema:creator": "M. J. Wickham Photography",
   "schema:description": "This photograph depicts Merry Edwards, Ted Klopp, and laborers during harvest. Edwards is tasting grapes freshly harvested from the vine.",
-  "schema:datePublished": "1999",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1999"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_034-02_rflctv_recto.tif"
+    "@id": "@base:/media/images/D-719_001_034-02_trmsv.tif"
   }
 }

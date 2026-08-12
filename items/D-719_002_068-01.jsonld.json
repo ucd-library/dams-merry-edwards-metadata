@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Release announcement for Merry Edwards' inaugural pinot noir offerings under her Merry Edwards Wines brand. The announcement discusses her 1997 Olivet Lane and 1997 Russian River Valley pinot noirs. Edwards' own vineyard, Meredith Vineyard Estate (or Meredith Estate), had its first release in 2000.",
-  "schema:datePublished": "1997",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1997"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_068-01_0001.tif"
   }

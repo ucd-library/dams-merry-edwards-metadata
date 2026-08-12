@@ -41,7 +41,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards at Klopp Ranch with laborers during harvest. Edwards is removing leaves and poor fruit from the vines.",
-  "schema:datePublished": "1999",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1999"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-08_001_trsmv.tif"
   }

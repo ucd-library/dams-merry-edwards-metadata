@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards inside a processing facility at Pellegrini Winery. She is pouring a bucket of dry ice into a large vat containing grapes as part of the crush process.",
-  "schema:datePublished": "2002",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2002"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-03_001_trsmv.tif"
   }

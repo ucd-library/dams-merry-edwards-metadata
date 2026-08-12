@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Tri Fold announcement mailed to Merry Edwards' parents, D.J. and Charles Edwards. The \"Summer Wine Offering\" announcement describes Mount Eden's 1976 pinot noir and 1976 chardonnay and includes a separate order form.",
-  "schema:datePublished": "1978",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1978"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_062_0001.tif"
   }

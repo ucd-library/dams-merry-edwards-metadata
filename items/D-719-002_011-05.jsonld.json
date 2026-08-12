@@ -41,7 +41,10 @@
     }
   ],
   "schema:description": "This photograph depicts Joe Dutton and Merry Edwards at the Klopp Ranch during harvest time. Dutton sits in a front loader that's holding a grape bin while talking with Merry Edwards as she stands nearby. They're surrounded by several bins of harvested grapes, some also loaded on a semi-truck.",
-  "schema:datePublished": "2002",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2002"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-05_003_trsmv.tif"
   }

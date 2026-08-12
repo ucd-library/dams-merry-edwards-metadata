@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "This release announcement contains descriptions about Merry Edwards Wines 2004 vintage pinot noirs and her 2005 sauvignon blanc. The announcement is a small bifold containing four loose leaflets and an envelope.",
-  "schema:datePublished": "2004-2005",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "2004-2005"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_017_0001.tif"
   }

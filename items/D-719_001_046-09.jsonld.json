@@ -38,8 +38,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards and an unidentified man moving wine casks inside a large storage facility.",
-  "schema:datePublished": "1974-09",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1974-09"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_009_mnt_recto.tif"
+    "@id": "@base:/media/images/D-719_001_046_009_trsmv.tif"
   }
 }

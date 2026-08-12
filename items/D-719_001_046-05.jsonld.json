@@ -35,8 +35,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards working in a rudimentary laboratory conducting analysis at Mount Eden Vineyards. The lab was designed and built by Edwards, Miller, and a friend who was a carpenter. Edwards is sitting at a table covered with glass jars and other equipment.",
-  "schema:datePublished": "1974-1976",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "1974-1976"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_05_mnt_recto.tif"
+    "@id": "@base:/media/images/D-719_001_046_05_trmsv.tif"
   }
 }

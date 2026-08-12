@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Vintners release announcement for the 1985 vintage of Sonoma County Chardonnay as a card with an order form inserted. This vintage won the silver award at the 1986 California State Fair wine competition. Merry Edwards founded Merry Vintners in 1984 and it existed until the late 1980s.",
-  "schema:datePublished": "1985",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1985"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_055-02_0001.tif"
   }

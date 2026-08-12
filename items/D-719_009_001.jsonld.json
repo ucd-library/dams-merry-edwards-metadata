@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "Oversize 8\" x 12\" color photograph depicting Meredith Vineyard Estate (also called Meredith Estate) as an old apple orchard before Merry Edwards planted five pinot noir clones and specific rootstocks in 1998. The clones were from a field selection of Swan, UCD37 from Mount Eden Vineyard budwood, and three Dijon clones from Burgundy.",
-  "schema:datePublished": "1997",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1997"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_009_001_0001.tif"
   }

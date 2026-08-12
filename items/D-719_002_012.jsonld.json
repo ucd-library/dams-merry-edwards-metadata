@@ -39,8 +39,11 @@
   ],
   "schema:creator": "Ben Miller Photography",
   "schema:description": "This photograph depicts Merry Edwards standing in front of a cask holding 2001 Meredith Vineyard Estate pinot noir as she uses a wine thief to sample wine.",
-  "schema:datePublished": "2001-2002",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "2001-2002"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719-002-012_rflctv_recto.tif"
+    "@id": "@base:/media/images/D-719-002-012_trmsv.tif"
   }
 }

@@ -36,7 +36,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "In spring of 1999, Merry Edwards released her two inaugural pinot noirs under the Merry Edwards Wines brand: Merry Edwards 1997 Olivet Lane and 1997 Russian River Valley blend. This wine label shows the design for the Russian River Valley pinot noir.",
-  "schema:datePublished": "1997",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1997"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_068-03_0001.tif"
   }

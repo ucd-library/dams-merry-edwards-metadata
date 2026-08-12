@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Edwards conducted tastings throughout her wine production process. This excerpt from Merry Edwards' series of tasting notes for her 2004-2005 vintages corresponds to the wines featured in the \"Seduced by Pinot\" release announcement. It includes notes for 2004 Sonoma Coast, Russian River Valley, Olivet Lane, and Coopersmith Vineyard pinot noirs as well as 2005 Russian River Valley sauvignon blanc.",
-  "schema:datePublished": "2004",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2004"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_005_012_0001.tif"
   }

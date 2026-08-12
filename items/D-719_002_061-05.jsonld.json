@@ -36,7 +36,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Vintners wine label for the 1987 vintage of Sonoma County chardonnay. Label is in color and size is 3 1/2 inches x 6 inches. Merry Edwards founded Merry Vintners in 1984 and it existed until the late 1980s.",
-  "schema:datePublished": "1987",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1987"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_061-05_0001.tif"
   }

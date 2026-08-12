@@ -41,7 +41,10 @@
     }
   ],
   "schema:description": "This photograph depicts, from left to right, Merry Edwards, the labor foreman, and Ted Klopp standing next to a large bin of harvested grapes.",
-  "schema:datePublished": "1999",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1999"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-09_002_trsmv.tif"
   }

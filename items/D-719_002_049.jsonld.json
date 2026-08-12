@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Los Angeles County Fair Publicity Department",
   "schema:description": "This photograph depicts the wine judges who took part in the 1976 Los Angeles County Fair wine tasting competition. Front row, L-R: Elizabeth Milius, Frank Prial, Belle Rhodes, Narsai David, Ruthanne Dickerson, Dr. Paul Scholten, Merry Edwards. Back row, L-R: R. Stoney Mayock II, Dr. James Guymon, Greg Doerschlag, Robert Currie, Bob Thompson, John Movius, Dr. Bernard Rhodes, Robert Morrisey, Nathan Chroman, Dr. Leopold Tuchman, Dr. Richard Peterson, Marvin Zeidler, Darrell Corti, Ralph Hutchinson.",
-  "schema:datePublished": "1976",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1976"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_049_0001.tif"
   }

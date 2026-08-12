@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Edwards conducted tastings throughout her wine production process and this page shows how wine names were abbreviated as well as other notations that were used. This excerpt is from Merry Edwards' series of tasting notes for her 2006 vintage corresponds to the \"Romanced by Pinot\" release announcement.",
-  "schema:datePublished": "2006-01-10",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2006-01-10"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_006_002_0001.tif"
   }

@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Photographs in this album capture the first few years of Meredith Vineyard Estate, also called Meredith Estate, from initial clearing of the old apple orchard property to the 2001 bottling of MVE's sparkling wine. Photos depict activities such as field labor, barrel tastings, dinners, gatherings of business partners, and a blessing ritual.",
-  "schema:datePublished": "1997-2001",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "1997-2001"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_001_017_0001.tif"
   }

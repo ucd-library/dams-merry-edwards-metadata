@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts Malcolm Clark (left) of Gourmet Mushrooms, Merry Edwards (center), and James Beard Award-winning chef John Ash (right). Each holds a small cluster of mushrooms while standing in the kitchen of Merry Edwards and Ken Coopersmith's home. Gourmet Mushrooms is located in Sebastopol, not far from Coopersmith Vineyard.",
-  "schema:datePublished": "2003",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2003"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-02_002_trsmv.tif"
   }

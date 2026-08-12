@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Vintners Club wine tasting form with Merry Edwards' handwritten scoring and comments and small typed wine list of cabernet sauvignons that were tasted at the 1976 Los Angeles County Fair. Red and white table wines, sparkling, flavored and dessert wines, brandies, aperitifs, and fruit wines made up the divisions. The judging panel was composed of four women and sixteen men.",
-  "schema:datePublished": "1976-06-09",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1976-06-09"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_009_004_0001.tif"
   }

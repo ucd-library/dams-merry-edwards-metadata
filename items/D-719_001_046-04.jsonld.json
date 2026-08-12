@@ -35,8 +35,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards emptying a grape-filled wooden crate labeled \"Mount Eden Vineyards\" into a large receptacle as part of the winemaking process. People stand nearby while others labor among the vines in the background.",
-  "schema:datePublished": "1974-1976",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "1974-1976"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_004_mnt_recto.tif"
+    "@id": "@base:/media/images/D-719_001_046_D-719_001_046-04_trsmv.tif"
   }
 }

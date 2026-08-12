@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards' father Charles Edwards (left) and her business partner Warren Arnold as they stand near crates of Meredith Estate's first harvest of sparkling grapes. The grapes were crushed at Taft Street Winery.",
-  "schema:datePublished": "2000",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2000"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_001_011-01_0001.tif"
   }

@@ -35,8 +35,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards and Mount Eden Vineyards partners labeling and boxing wine bottles.",
-  "schema:datePublished": "1974-05",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1974-05"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_002_mnt_recto.tif"
+    "@id": "@base:/media/images/D-719_001_046_002_trsmv.tif"
   }
 }

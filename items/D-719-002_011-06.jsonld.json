@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards using a punch down system with vats that have removable lids. During punch down, the top layer of grape skins and stems get submerged into the liquid to aid in fermentation. This step is part of the crush process.",
-  "schema:datePublished": "2002",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2002"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-06_004_trsmv.tif"
   }

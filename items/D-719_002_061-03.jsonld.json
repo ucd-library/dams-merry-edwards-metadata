@@ -36,7 +36,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Vintners wine label for the 1984 vintage of Sonoma County chardonnay. Label is in color and size is 4 inches x 7 inches and features an image captured by UC Davis viticulture and enology professor Dr. Ralph Kunkee. This vintage won a gold medal at the 1986 National Wine Competition in San Diego. Merry Edwards founded Merry Vintners in 1984 and it existed until the late 1980s.",
-  "schema:datePublished": "1984",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1984"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_061-03_0001.tif"
   }

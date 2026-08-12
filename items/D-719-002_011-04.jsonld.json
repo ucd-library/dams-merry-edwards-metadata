@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts laborers carrying bins of harvested grapes overhead as they walk in a misty vineyard at Klopp Ranch. Another laborer is driving  a small tractor.",
-  "schema:datePublished": "2002",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2002"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-04_002_trsmv.tif"
   }

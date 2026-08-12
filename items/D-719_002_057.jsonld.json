@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Vintners newsletter that followed a November press release announcing the new winery's successful 1984 crush of chardonnay grapes. The typed newsletter provides details about Merry Vintners winemaking, future releases, and the roles of family members who helped run the business.",
-  "schema:datePublished": "1984-12",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1984-12"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_057_0001.tif"
   }

@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts vineyard workers as they pick Meredith Estate's first harvest of sparkling grapes.",
-  "schema:datePublished": "2000",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2000"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_001_011-18_0001.tif"
   }

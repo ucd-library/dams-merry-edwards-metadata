@@ -36,7 +36,10 @@
   ],
   "schema:creator": "Baker, Timothy",
   "schema:description": "This 8\" x 10\" black-and-white photograph depicts the family behind Merry Vintners Winery, (L-R): Charles Edwards (father); Bill Miller, (husband); D.J. Edwards (mother); and Merry Edwards. While Merry Edwards focused on winemaking, her mother ran the office and conducted public relations, her father worked in the vineyard, and her husband tended to machinery and infrastructure upkeep. Merry Vintners focused on producing different types of chardonnay rather than different varietals.",
-  "schema:datePublished": "1984",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1984"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_010_001_0001.tif"
   }

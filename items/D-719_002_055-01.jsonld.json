@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Invitation for release tasting of the Merry Vintners 1984 Sonoma County Reserve Chardonnay with a map showing the location of the winery on verso side of invitation. Size is approximately 5 inches x 7 1/2 inches. Merry Edwards founded Merry Vintners in 1984 and it existed until the late 1980s.",
-  "schema:datePublished": "1986-05-03",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1986-05-03"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_055-01_0001.tif"
   }

@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Edwards acquired her own vineyard in 1997, planted the first young vines in 1998, and released her inaugural vineyard designate pinot noir in 2000 along with Merry Edwards Wines pinot noirs from Klopp Ranch, Windsor Gardens, Russian River Valley, and Olivet Lane.",
-  "schema:datePublished": "1998",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1998"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_013_0001.tif"
   }

@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "This release announcement titled \"Our Tenth Anniversary!\" describes Merry Edwards' 2005 vintages of pinot noir from Flax Vineyard, Tobias Glen, Coopersmith Vineyard, Klopp Ranch, and Meredith Estate.",
-  "schema:datePublished": "2005",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2005"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_002_019_0001.tif"
   }

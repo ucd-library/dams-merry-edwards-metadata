@@ -39,7 +39,10 @@
   ],
   "schema:creator": "Edwards, Merry",
   "schema:description": "Merry Edward's handwritten tasting notes for her 1999 releases of 1997 vintages that included a blend of Windsor Gardens, Olivet Lane, and Klopp Ranch. One section of the notes reads, \"Spicy, plum & cherry, more appealing...\"",
-  "schema:datePublished": "1998-04-03",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1998-04-03"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_004_004_0001.tif"
   }

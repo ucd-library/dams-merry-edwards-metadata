@@ -35,7 +35,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards in a laboratory at Mount Eden Vineyards. Edwards is using burettes, beakers, and other lab equipment to conduct wine analysis as she talks on a rotary phone. A notepad with notes sits next to the base of the telephone.",
-  "schema:datePublished": "1974-1976",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#string",
+    "@value": "1974-1976"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719_001_046-06_trsmv.tif"
   }

@@ -38,7 +38,10 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards and Ken Coopersmith at their home with guests James Beard Award-winning chef John Ash and Malcolm Clark of Gourmet Mushrooms. They sit on a covered patio at a table laden with empty wine glasses as Merry Edwards pours one of her wines. From left to right: Merry Edwards, John Ash, Malcolm Clark, and Ken Coopersmith.",
-  "schema:datePublished": "2003",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2003"
+  },
   "schema:image": {
     "@id": "@base:/media/images/D-719-002_011-07_001_trsmv.tif"
   }

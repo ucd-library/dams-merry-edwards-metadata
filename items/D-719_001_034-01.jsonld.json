@@ -41,8 +41,11 @@
     }
   ],
   "schema:description": "This photograph depicts Merry Edwards using a pruning tool to remove underripe grapes from the vine.",
-  "schema:datePublished": "2001",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2001"
+  },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_034-01_rflctv_recto.tif"
+    "@id": "@base:/media/images/D-719_001_034-01_trmsv.tif"
   }
 }
