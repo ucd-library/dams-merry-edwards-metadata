@@ -31,6 +31,17 @@
       "@id": "http://id.loc.gov/authorities/names/no2008108707"
     }
   ],
+  "schema:about": [
+  	{
+  	"@id": "http://id.worldcat.org/fast/01175997"
+  	},
+  	{
+  	"@id": "http://id.worldcat.org/fast/01175907"
+  	},
+  	{
+  	"@id": "http://id.worldcat.org/fast/01175887"
+  	}
+  ]
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2026"
