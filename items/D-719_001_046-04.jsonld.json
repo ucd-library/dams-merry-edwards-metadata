@@ -10,10 +10,12 @@
   },
   "@id": "",
   "@type": [
-    "schema:CreativeWork"
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/images"
+    "@id": "@base:/D-719_001_046_D-719_001_046-04_trsmv.tif"
   },
   "schema:identifier": [
     "ark:/87293/d33j39b26",
@@ -40,6 +42,6 @@
     "@value": "1974-1976"
   },
   "schema:image": {
-    "@id": "@base:/media/images/D-719_001_046_D-719_001_046-04_trsmv.tif"
+    "@id": "@base:/D-719_001_046_D-719_001_046-04_trsmv.tif"
   }
 }

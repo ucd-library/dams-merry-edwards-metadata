@@ -10,10 +10,12 @@
   },
   "@id": "",
   "@type": [
-    "schema:CreativeWork"
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/images"
+    "@id": "@base:/D-719-002-012_trmsv.tif"
   },
   "schema:identifier": [
     "ark:/87293/d30p0x18t",
@@ -44,6 +46,6 @@
     "@value": "2001-2002"
   },
   "schema:image": {
-    "@id": "@base:/media/images/D-719-002-012_trmsv.tif"
+    "@id": "@base:/D-719-002-012_trmsv.tif"
   }
 }
