@@ -60,6 +60,6 @@
     }
   ],
   "schema:image": {
-    "@id": "info:fedora/item/merry-edwards-hero-image.jpg"
+    "@id": "info:fedora/item/merry-edwards-image.jpg"
   }
 }

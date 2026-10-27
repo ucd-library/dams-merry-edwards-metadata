@@ -14,7 +14,7 @@
     "schema:CreativeWork",
     "schema:MediaObject"
   ],
-  "ebucore:filename": "merry-edwards-hero-image.jpg",
+  "ebucore:filename": "merry-edwards-image.jpg",
   "ebucore:hasMimeType": "image/jpeg",
   "schema:alternativeHeadline": "Portrait of Merry Edwards"
 }
