@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3736mc85",
+    "D-719, Bottles"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Merry Edwards 2012 Russian River Valley Late Harvest Sauvignon Blanc",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01201360"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01213638"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01305957"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01986262"
+    }
+  ],
+  "schema:creator": "Edwards, Merry",
+  "schema:description": "Bottle of Merry Edwards 2012 Russian River Valley sauvignon blanc featuring art design by iconic Berkeley printmaker, David Lance Goines.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2012"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/D-719_Bottles_002_0001.tif"
+  }
+}

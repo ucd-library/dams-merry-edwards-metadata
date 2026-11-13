@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:position": "06",
+  "ebucore:filename": "D-719_Bottles_003_0006.tif",
+  "ebucore:hasMimeType": "image/tiff",
+  "schema:alternativeHeadline": "Merry Edwards 2013 Russian River Valley Pinot Noir 40th Vintage: dark bottle of red wine with a black capsule and a gold-foil label featuring a large '40' and a vine illustration, photographed against a black background, angle 6 of 8 in a 360-degree rotation, turned to show the right side of the label."
+}
